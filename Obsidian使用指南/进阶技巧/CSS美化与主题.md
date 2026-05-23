@@ -79,4 +79,9 @@ strong {
 
 ---
 
+## 相关
+- [[社区插件精选]] — Style Settings 插件让主题调节可视化
+- [[Callout与排版]] — Callout 可以通过 CSS snippet 自定义样式
+- [[Properties与元数据]] — `cssclasses` 属性为单篇笔记加载特定 CSS
+
 ← 回到 [[00-目录|目录]]
