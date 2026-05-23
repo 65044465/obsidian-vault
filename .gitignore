@@ -1,0 +1,13 @@
+# Obsidian workspace (changes constantly)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Trash
+.trash/
+
+# Claude Code local config
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
